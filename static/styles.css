@@ -1,0 +1,29 @@
+/* styles for the search box tried to make an input box work similar to search bar like the auto complete */
+.gsc-input-box {
+    border: 1px solid #dfe1e5;
+    background: #fff;
+}
+
+.gsc-results-wrapper-overlay.gsc-results-wrapper-visible {
+    display: none;
+}
+
+.gsc-overflow-hidden {
+    overflow: auto;
+    display: none;
+}
+
+.gsc-results {
+    display: none;
+}
+
+/*
+.input {
+    border: 1px solid #DFE1E5;
+    padding: 8px;
+    font-size: 16px;
+    width: 586px;
+    height: 5px;
+}
+
+*/
